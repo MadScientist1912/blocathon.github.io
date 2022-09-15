@@ -45,7 +45,7 @@ import {
     const nft = document.createElement("img")
     nft.dataset.nft = true
     // todo: set img drugo nft
-    nft.src = "imgs/nft.png"
+    nft.src = "nft.png"
     // todo: smeni klasa nft
     nft.classList.add("nft")
     setCustomProperty(nft, "--left", 100)
