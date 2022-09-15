@@ -1,0 +1,58 @@
+body{
+    background-color:white;
+}
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Montserrat;
+}
+.heading-tag{
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+    font-weight: 950;
+    font-style: normal;
+    font-size: 8rem;
+    word-spacing: 1rem;
+    
+    
+}
+.top-items{
+    font-size: larger;
+}
+.robot-img{
+    width: 50%;
+    margin-left: 40%;
+}
+.info{
+    
+    margin-top: 5%;
+}
+#title{
+    background-color: black;
+    padding-bottom: 10%;
+    background-image: url(img/background.png);
+    
+}
+
+/* cards */
+.first{
+    margin: 5%;
+}
+.second{
+    margin: 5%;
+}
+/* icon */
+.icon{
+    width: 30px;
+    
+}
+.footer-icon {
+    padding: 5% 1% 2% 1%;
+    
+    
+}
+#footer{
+    text-align: center;
+    background-color: burlywood;
+
+}
